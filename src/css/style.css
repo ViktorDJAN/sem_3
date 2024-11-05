@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.convertor_part {
+    display: flex;
+    justify-content:space-evenly ;
+    width:700px;
+}
+.fieldLeft{
+    width: 207px;
+}
+/*--------------------  selectFieldComponent    --------------------------*/
+#simpleInputField{
+    width: 250px;
+    height: 56px;
+}
+#simpleButton{
+    height: 52px;
+
+}
+.fieldLeft{
+    left:10px;
+    position: absolute;
+}
+
+/*------------------ end of selectFieldComponent -------------------------*/
